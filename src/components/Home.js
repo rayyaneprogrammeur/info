@@ -1,7 +1,7 @@
-import Hero from "../Hero";
-import AboutUs from "../AboutUs";
-import Units from "../Units";
-import ContactUs from "../ContactUs";
+import Hero from "./Hero";
+import AboutUs from "./AboutUs";
+import Units from "./Units";
+import ContactUs from "./ContactUs";
 
 function Home() {
     return (
